@@ -1,0 +1,20 @@
+#red {
+  height:50%;
+  width: 50%;
+  background-color: red;
+  position: absolute;
+}
+#yellow {
+  height:15%;
+  width: 15%;
+  background-color: yellow;
+  position: fixed;
+}
+#purple {
+  height:60%;
+  width: 60%;
+  bottom: 60px;
+  right: 60px;
+  background-color: purple;
+  position: absolute;
+}
